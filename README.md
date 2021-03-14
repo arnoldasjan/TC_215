@@ -67,6 +67,10 @@ Importing the Calculator class
 
 `from Calculator.calculator import Calculator`
 
+## Contact
+
+Contact me here [@arnoldasjan](https://github.com/arnoldasjan/)
+
 ## License
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
